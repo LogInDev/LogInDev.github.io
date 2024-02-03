@@ -5,7 +5,7 @@ categories: [Error, oauth2.0]
 tags: [oauth2.0]
 math: true
 mermaid: true
-
+image: "/assets/img/error.png"
 ---
 
 ## google 로그인 인증 구현 중 oauth client 관련 오류

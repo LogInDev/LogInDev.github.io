@@ -1,14 +1,11 @@
 ---
 title: First Post
-author:
-  name: jinozpersona
-  link: 
 date: 2024-01-21 10:32:00 +0900
 categories: [Blog, Post]
 tags: [test]
 math: true
 mermaid: true
-
+image: "/assets/img/error.png"
 ---
 
 First Post
