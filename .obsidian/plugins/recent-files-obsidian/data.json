@@ -1,0 +1,63 @@
+{
+  "recentFiles": [
+    {
+      "basename": "2024-02-11-연산자",
+      "path": "_posts/Java/Study/2024-02-11-연산자.md"
+    },
+    {
+      "basename": "2024-02-03-자바 실행 과정 및 기본 구조(feat. JDK, JRE, JavaSE란)",
+      "path": "_posts/Java/Study/2024-02-03-자바 실행 과정 및 기본 구조(feat. JDK, JRE, JavaSE란).md"
+    },
+    {
+      "basename": "default_java",
+      "path": "_posts/Java/Study/default_java.md"
+    },
+    {
+      "basename": "2024-02-04-자바-기본-타입-및-타입-변환",
+      "path": "_posts/Java/Study/2024-02-04-자바-기본-타입-및-타입-변환.md"
+    },
+    {
+      "basename": "2024-02-11-Scanner-사용하기(feat. next()와-nextLine()의-차이)",
+      "path": "_posts/Java/Study/2024-02-11-Scanner-사용하기(feat. next()와-nextLine()의-차이).md"
+    },
+    {
+      "basename": "2024-02-03-변수와-진수별-작성법",
+      "path": "_posts/Java/Study/2024-02-03-변수와-진수별-작성법.md"
+    },
+    {
+      "basename": "default_mybatis",
+      "path": "_posts/Spring/Mybatis/default_mybatis.md"
+    },
+    {
+      "basename": "2024-02-11-[postgresql]select-결과-없는 경우-Mybatis-interceptor로-객체-초기화하는 방법",
+      "path": "_posts/Spring/Mybatis/2024-02-11-[postgresql]select-결과-없는 경우-Mybatis-interceptor로-객체-초기화하는 방법.md"
+    },
+    {
+      "basename": "2024-01-21-Oauth2Error",
+      "path": "_posts/Error/2024-01-21-Oauth2Error.md"
+    },
+    {
+      "basename": "2024-02-03-자바 실행 과정 및 기본 구조(feat. JDK, JRE, JavaSE란)",
+      "path": "2024-02-03-자바 실행 과정 및 기본 구조(feat. JDK, JRE, JavaSE란).md"
+    },
+    {
+      "basename": "default_java 복사본",
+      "path": "default_java 복사본.md"
+    },
+    {
+      "basename": "default_java",
+      "path": "default_java.md"
+    },
+    {
+      "basename": "2024-02-04-자바-기본-타입-및-타입-변환",
+      "path": "2024-02-04-자바-기본-타입-및-타입-변환.md"
+    },
+    {
+      "basename": "2024-02-03-변수와-진수별-작성법",
+      "path": "2024-02-03-변수와-진수별-작성법.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "tab"
+}

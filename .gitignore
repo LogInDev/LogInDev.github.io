@@ -22,5 +22,5 @@ package-lock.json
 # assets/js/dist
 
 #Obsidian
-.obsidian
-.makemd
+#.obsidian
+#.makemd
