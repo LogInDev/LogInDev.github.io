@@ -1,0 +1,218 @@
+---
+title: Scanner 사용하기(feat. next()와 nextLine()의 차이)
+date: 2024-02-11 12:50:00 +0900
+categories:
+  - Java
+  - Study
+tags:
+  - java
+math: true
+mermaid: true
+image: /assets/img/post_previewImg/java.png
+excalidraw-plugin: parsed
+---
+
+
+## 콘솔에 출력하기
+
+> System.out.println("출력할 내용");
+
+`println`이외에도 상황에 따라 적용가능한 다른 메소드들이 있다.
+
+| 메소드 | 의미 |
+| ---- | ---- |
+| `println(내용);` | 괄호 안의 내용을 출력하고 행을 바꿔라. |
+| `print(내용);` | 괄호 안의 내용을 출력하고 행은 바꾸지 마라. |
+| `printf("형식문자열", 값1, 값2, ・・・);` | 형식 문자열에 맞추어 뒤의 값을 출력해라. |
+
+### `printf()`의 형식문자열
+
+``` java
+printf("형식문자열", 값1, 값2, ・・・); // 값의 갯수는 정해져 있지 않음.
+```
+
+<img src="/assets/img/post_img/printf형식문자열.png" alt="printf" />
+
+`%`와 `conversion`은 필수로 작성하고 그 외의 항목은 모두 생략할 수 있다.
+
+`%`는 형식 문자열의 시작을 의미하고, 
+`conversion`에는 제공되는 값의 타입에 따라 주로 `d`(정수), `f`(실수), `s`(문자열)가 온다.
+
+| `conversion` | 출력형태                                             |
+| -------- | ---------------------------------------------------- |
+| %d       | 10진수 정수 형태로 출력(데이터에 소수점 작성시 에러) |
+| %o       | 8진수 정수 형태로 출력                               |
+| %x       | 16진수 정수 형태로 출력                              |
+| %f       | 실수로 출력                                          |
+| %s       | 문자열 출력(가장 많이 쓰임)                          |
+| %c       | 문자(char타입) 출력                                  |
+
+> `argument_index$` : 값의 순번
+
+형식 문자열에 포함될 값이 두 개 이상일 경우에는 값의 순번(`argument_index$`)을 포함시켜야 한다. 예를 들어 `1$`는 첫 번째 값을, `2$`는 두 번째 값을 뜻한다.
+
+```java
+System.out.printf("이름: %1$s, 나이: %2$d", "김자바", 25);
+>> 이름: 김자바, 나이: 25
+```
+
+> `flags` : 빈 공간을 채우는 방식 설정
+
+생략되면 왼쪽이 공백으로 채워지고 `-`가 오면 오른쪽이 공백으로 채워진다. 
+`0`은 공백 대신 `0`으로 채운다.
+
+>`width`는 소수점을 포함한 전체 자릿수
+
+
+>`.precison`은 소수점 이하 자릿수
+
+
+#### [자주 사용되는 예시]
+
+| 값의 타입 | 형식                               | 설명                                                                                                                                                    | 출력형태                                  |
+| --------- | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 정수      | `%d`<br>`%6d`<br>`%-6d`<br>`%06d`  | 정수<br>6자리 정수. 왼쪽 빈자리 공백<br>6자리 정수. 오른쪽 빈자리 공백<br>6자리 정수. 왼쪽 빈자리 0 채움                                                | 123<br>\_\__123<br>123___<br>000123       |
+| 실수      | `%10.2f`<br>`%-10.2f`<br>`%010.2f` | 정수 7자리+소수점+소수 2자리. 왼쪽 빈자리 공백<br>정수 7자리 +소수점+소수 2자리. 오른쪽 빈자리 공백<br>정수 7자리+소수점+소수 2자리. 왼쪽 빈자리 0 채움 | \_\_\__123.45<br>123.45____<br>0000123.45 |
+| 문자열    | `%s`<br>`%6s`<br>`%-6s`            | 문자열<br>6자리 문자열. 왼쪽 빈자리 공백<br>6자리 문자열.오른쪽 빈자리 공백 | abc<br>\_\__abc<br>abc___                 |
+| 특수 문자 | `\t`<br>`\n`<br>%%  | 탭(tab)<br>줄바꿈<br>% | <br><br>% |
+
+<br>
+
+---
+## 콘솔에 입력하기
+
+### `Scanner` 사용하기
+
+```java
+import java.util.Scanner;
+
+Scanner scanner = new Scanner(System.in);
+```
+- `java.util` 패키지에서 `Scanner` 클래스를 임포트
+- `System.in` : 키보드에서 사용자로부터 키 입력을 받기 위해 사용함(표준입력). 입력받은 값은 Byte 단위로 읽음.
+
+ | 메소드         | 리턴 타입                                                                                                                                                                                                                               |
+ | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+ | `next()`       | String타입으로 리턴                                                                                                                                                                                                                     |
+ | `nextLine()`   | `\n`을 포함하는 한 라인을 읽고, `\n`을 버린 나머지만 String타입으로 리턴                                                                                                                                                                |
+ | `nextByte()`   | byte타입으로 리턴                                                                                                                                                                                                                       |
+ | `nextShort()`  | short타입으로 리턴                                                                                                                                                                                                                      |
+ | `nextInt()`    | int타입으로 리턴                                                                                                                                                                                                                        |
+ | `nextLong()`   | long타입으로 리턴                                                                                                                                                                                                                       |
+ | `nextFloat()`  | float타입으로 리턴                                                                                                                                                                                                                      |
+ | `nextDouble()` | double타입으로 리턴                                                                                                                                                                                                                     |
+ | `hasNext()`    | 현재 입력된 토큰이 있으면 true, 아니면 새로운 입력이 들어올 때까지 무한정 기다려서, 새로운 입력이 들어오면 그 때 `true`리턴.<br>`Crtl + D`(macOS) 또는 `Crtl+Z`(windowOS)를 사용하여 입력을 종료할 수 있어서 이러한 경우 `false`를 반환 |
+ | `close()`      | Scanner의 사용 종료                                                                                                                                                                                                                     |
+
+<br>
+
+#### `next()`와 `nextLine()` 메소드의 차이
+
+```java
+public class Example { 
+	public static void main(String[] args) { 
+		Scanner scanner = new Scanner(System.in); 
+		
+		System.out.print("nextLine: ");
+		String str1 = sc.nextLine();
+		System.out.println(str1);
+
+		System.out.print("next: ");
+		String str2 = sc.next();
+		System.out.println(str2);
+	} 
+}
+```
+
+```
+nextLine: 안녕하세요 JAVA입니다.
+안녕하세요 JAVA입니다.
+next: 안녕하세요 JAVA입니다.
+안녕하세요
+```
+
+`scanner.nextLine()`은 'Enter'키가 입력되기 전까지 블로킹(대기) 상태가 되며, 'Enter'키가 입력되면 지금까지 입력된 모든 내용을 문자열로 읽는다.
+
+```java
+import java.util.Scanner;
+
+public class nextLine(){
+	public static void main(String[] args){
+		Scanner sc = new Scanner(System.in);
+
+		System.out.println("입력 값: ");
+		int input1 = sc.nextInt();
+
+		System.out.println("입력 값: ");
+		String input2 = sc.nextLine();
+
+		System.out.println("출력 값: ");
+		System.out.println(input1);
+
+		System.out.println("출력 값: ");
+		System.out.println(input2);
+	}
+}
+```
+
+```
+입력 값: 
+1
+입력 값: 
+출력 값: 
+1
+출력 값:
+```
+
+>`next()`메소드는 공백 전까지 입력받은 문자열을 리턴하고,
+`nextLine()` 메소드는 'Enter' 치기 전까지의 문자열을 모두 리턴한다.
+
+`next()` 이후에 `nextLine()`메소드를 사용하면 'Enter' 치기 전의 모든 문자열을 받아서
+첫 번째 입력 값 작성 후 'Enter' 를 치면 두 번째 입력 값은 입력하지도 못한 채 모든 입력이 종료되고 
+위와 같은 결과물만 출력한다.
+
+따라서, `next()` 이후에 `nextLine()`을 사용할 시 줄바꿈을 따로 처리해 줘야 한다.
+
+```java
+import java.util.Scanner;
+
+public class nextLine(){
+	public static void main(String[] args){
+		Scanner sc = new Scanner(System.in);
+
+		System.out.println("입력 값: ");
+		int input1 = sc.nextInt();
+
+		System.out.println("입력 값: ");
+		sc.nextLine(); // 줄바꿈 처리
+		String input2 = sc.nextLine();
+
+		System.out.println("출력 값: ");
+		System.out.println(input1);
+
+		System.out.println("출력 값: ");
+		System.out.println(input2);
+	}
+}
+```
+
+```
+입력 값: 
+1
+입력 값: 
+2
+출력 값: 
+1
+출력 값: 
+2
+```
+
+
+
+<br/><br/><br/><br/><br/>
+
+참고
+- [이것이 자바다](https://www.youtube.com/playlist?list=PLVsNizTWUw7EmX1Y-7tB2EmsK6nu6Q10q)
+<br/><br/>
+
+피드백은 언제든 감사하게 받겠습니다.
