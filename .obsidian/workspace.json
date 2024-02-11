@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/Java/Study/2024-02-11-연산자.md",
+                "file": "_posts/Spring/Mybatis/2024-02-11-[postgresql]select-결과-아예-없을 -때-Mybatis-interceptor로-객체-초기화하는 방법.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "484ce589a44ddef5",
@@ -130,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/Java/Study/2024-02-11-연산자.md",
+                "file": "_posts/Spring/Mybatis/2024-02-11-[postgresql]select-결과-아예-없을 -때-Mybatis-interceptor로-객체-초기화하는 방법.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/Java/Study/2024-02-11-연산자.md",
+                "file": "_posts/Spring/Mybatis/2024-02-11-[postgresql]select-결과-아예-없을 -때-Mybatis-interceptor로-객체-초기화하는 방법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/Java/Study/2024-02-11-연산자.md"
+                "file": "_posts/Spring/Mybatis/2024-02-11-[postgresql]select-결과-아예-없을 -때-Mybatis-interceptor로-객체-초기화하는 방법.md"
               }
             }
           },
@@ -222,6 +221,9 @@
   },
   "active": "6b8f88ea091958af",
   "lastOpenFiles": [
+    "_site/posts/postgresql-select-결과-아예-없을-때-Mybatis-interceptor로-객체-초기화하는-방법/index.html",
+    "_site/posts/postgresql-select-결과-아예-없을-때-Mybatis-interceptor로-객체-초기화하는-방법",
+    "_posts/Java/Study/2024-02-11-연산자.md",
     "_site/assets/img/post_img/java/2-7.png",
     "_site/assets/img/post_img/java/2-6.jpeg",
     "_site/assets/img/post_img/java/2-4.jpeg",
@@ -232,14 +234,12 @@
     "assets/img/post_img/java/2-6.jpeg",
     "assets/img/post_img/java/2-4.jpeg",
     "assets/img/post_img/java/2-3.jpeg",
-    "assets/img/post_img/java/2-2.jpeg",
     "_site/posts/연산자/index.html",
     "_site/posts/연산자",
     "_site/assets/img/post_img/java",
     "assets/img/post_img/java",
     "assets/img/post_img/무제 폴더",
     "_posts/Java/Study/2024-02-03-자바 실행 과정 및 기본 구조(feat. JDK, JRE, JavaSE란).md",
-    "_posts/Java/Study/2024-02-11-연산자.md",
     "_posts/Java/Study/default_java.md",
     "_posts/Java/Study/2024-02-04-자바-기본-타입-및-타입-변환.md",
     "_posts/Java/Study/2024-02-11-Scanner-사용하기(feat. next()와-nextLine()의-차이).md",
@@ -251,10 +251,9 @@
     "_posts/Spring/Mybatis/default_mybatis.md",
     "_site/Excalidraw/printf형식문자열.excalidraw.html",
     "_site/Excalidraw/NanumBaeEunHyeCe.ttf",
-    "_site/Excalidraw",
     "Excalidraw/printf형식문자열.excalidraw.md",
     "Excalidraw/Drawing 2024-02-11 14.50.02.excalidraw.md",
-    "_posts/Spring/Mybatis/2024-02-11-[postgresql]select-결과-없는 경우-Mybatis-interceptor로-객체-초기화하는 방법.md",
+    "_posts/Spring/Mybatis/2024-02-11-[postgresql]select-결과-아예-없을 -때-Mybatis-interceptor로-객체-초기화하는 방법.md",
     "_posts/Algorithm/default_algorithm.md",
     "_posts/Algorithm/String/default_algorithm.md",
     "_posts/Java/Study/default_mybatis.md",

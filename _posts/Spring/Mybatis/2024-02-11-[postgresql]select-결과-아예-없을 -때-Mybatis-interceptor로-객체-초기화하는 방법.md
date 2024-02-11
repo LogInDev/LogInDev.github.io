@@ -1,5 +1,5 @@
 ---
-title: "[postgresql]select 결과 없는 경우 Mybatis interceptor로 객체 초기화하는 방법"
+title: "[postgresql]select 결과 아예 없을 때 Mybatis interceptor로 객체 초기화하는 방법"
 date: 2024-02-11 09:34:00 +0900
 categories:
   - Spring
