@@ -1,11 +1,14 @@
 ---
 title: 소셜 로그인 구현 시 oauth client 관련 오류
 date: 2024-01-21 12:26:00 +0900
-categories: [Error, oauth2.0]
-tags: [oauth2.0]
+categories:
+  - Error
+  - Oauth2.0
+tags:
+  - oauth2.0
 math: true
 mermaid: true
-image: "/assets/img/post_previewImg/error.png"
+image: /assets/img/post_previewImg/error.png
 ---
 
 ## google 로그인 인증 구현 중 oauth client 관련 오류
