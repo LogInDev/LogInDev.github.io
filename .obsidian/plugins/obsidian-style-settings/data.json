@@ -15,8 +15,12 @@
   "anuppuccin-theme-settings@@anp-pdf-blend-toggle-dark": true,
   "anuppuccin-theme-settings@@anp-pdf-blend-toggle-light": true,
   "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-rosewater",
-  "anuppuccin-theme-settings-extended@@catppuccin-theme-extended": "ctp-atom-light",
+  "anuppuccin-theme-settings-extended@@catppuccin-theme-extended": "ctp-notion-light",
   "anuppuccin-theme-settings-extended@@anp-theme-ext-dark": true,
   "anuppuccin-theme-settings-extended@@anp-theme-ext-amoled": true,
-  "anuppuccin-theme-settings-extended@@anp-theme-ext-light": true
+  "anuppuccin-theme-settings-extended@@anp-theme-ext-light": true,
+  "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-solarized-dark",
+  "anuppuccin-theme-settings@@anp-color-transition-toggle": true,
+  "anuppuccin-theme-settings@@anp-button-metadata-toggle": true,
+  "anuppuccin-theme-settings@@anp-print": true
 }

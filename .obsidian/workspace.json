@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/Spring/Mybatis/2024-02-11-[postgresql]select-결과-아예-없을 -때-Mybatis-interceptor로-객체-초기화하는 방법.md",
+                "file": "_posts/Spring/Study/2024-02-12-스프링의-필요성(SOLID원칙).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/Java/Study/2024-02-11-연산자.md",
+                "file": "_posts/Spring/Study/2024-02-12-스프링의-필요성(SOLID원칙).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/Spring/Mybatis/2024-02-11-[postgresql]select-결과-아예-없을 -때-Mybatis-interceptor로-객체-초기화하는 방법.md",
+                "file": "_posts/Spring/Study/2024-02-12-스프링의-필요성(SOLID원칙).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/Spring/Mybatis/2024-02-11-[postgresql]select-결과-아예-없을 -때-Mybatis-interceptor로-객체-초기화하는 방법.md",
+                "file": "_posts/Spring/Study/2024-02-12-스프링의-필요성(SOLID원칙).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/Spring/Mybatis/2024-02-11-[postgresql]select-결과-아예-없을 -때-Mybatis-interceptor로-객체-초기화하는 방법.md"
+                "file": "_posts/Spring/Study/2024-02-12-스프링의-필요성(SOLID원칙).md"
               }
             }
           },
@@ -221,39 +221,41 @@
   },
   "active": "6b8f88ea091958af",
   "lastOpenFiles": [
-    "_site/posts/postgresql-select-결과-아예-없을-때-Mybatis-interceptor로-객체-초기화하는-방법/index.html",
-    "_site/posts/postgresql-select-결과-아예-없을-때-Mybatis-interceptor로-객체-초기화하는-방법",
+    "sitemap (1).xml",
+    "_site/posts/스프링의-필요성(SOLID원칙)/index.html",
+    "_site/posts/스프링의-필요성(SOLID원칙)",
+    "_site/assets/img/post_previewImg/스프링-프레임워크.png",
+    "_site/assets/img/post_img/spring/다형성.jpeg",
+    "_site/assets/img/post_img/spring/spring.jpeg",
+    "_site/assets/img/post_img/spring",
+    "_site/tags/spring/index.html",
+    "_site/tags/spring",
+    "_posts/Spring/Study/default_spring.md",
+    "_posts/Spring/Study/2024-02-12-스프링의-필요성(SOLID원칙).md",
+    "assets/img/post_previewImg/스프링-프레임워크.png",
+    "assets/img/post_img/spring/다형성.jpeg.sb-7179c4ca-28vb8f",
+    "assets/img/post_img/spring/다형성.jpeg",
+    "_posts/Spring/Mybatis/2024-02-11-[postgresql]select-결과-아예-없을 -때-Mybatis-interceptor로-객체-초기화하는 방법.md",
     "_posts/Java/Study/2024-02-11-연산자.md",
+    "assets/img/post_img/spring/spring.jpeg",
+    "assets/img/post_img/spring",
+    "assets/img/post_img/무제 폴더",
+    "_posts/Spring/Study",
+    "_posts/Spring/Mybatis/default_mybatis.md",
+    "_site/posts/postgresql-select-결과-아예-없을-때-Mybatis-interceptor로-객체-초기화하는-방법/index.html",
     "_site/assets/img/post_img/java/2-7.png",
     "_site/assets/img/post_img/java/2-6.jpeg",
     "_site/assets/img/post_img/java/2-4.jpeg",
     "_site/assets/img/post_img/java/2-3.jpeg",
-    "_site/assets/img/post_img/java/2-2.jpeg",
-    "_site/assets/img/post_img/java/2-1.jpeg",
-    "assets/img/post_img/java/2-7.png",
-    "assets/img/post_img/java/2-6.jpeg",
-    "assets/img/post_img/java/2-4.jpeg",
-    "assets/img/post_img/java/2-3.jpeg",
-    "_site/posts/연산자/index.html",
-    "_site/posts/연산자",
-    "_site/assets/img/post_img/java",
-    "assets/img/post_img/java",
-    "assets/img/post_img/무제 폴더",
     "_posts/Java/Study/2024-02-03-자바 실행 과정 및 기본 구조(feat. JDK, JRE, JavaSE란).md",
     "_posts/Java/Study/default_java.md",
     "_posts/Java/Study/2024-02-04-자바-기본-타입-및-타입-변환.md",
     "_posts/Java/Study/2024-02-11-Scanner-사용하기(feat. next()와-nextLine()의-차이).md",
     "assets/img/post_img/pr.md",
     "_posts/Java/Study/2024-02-03-변수와-진수별-작성법.md",
-    "_site/posts/Scanner-사용하기(feat.-next()와-nextLine()의-차이)/index.html",
-    "_site/posts/Scanner-사용하기(feat.-next()와-nextLine()의-차이)",
     "_posts/Java/2024-02-11-Scanner-사용하기(feat. next()와-nextLine()의-차이).md",
-    "_posts/Spring/Mybatis/default_mybatis.md",
-    "_site/Excalidraw/printf형식문자열.excalidraw.html",
-    "_site/Excalidraw/NanumBaeEunHyeCe.ttf",
     "Excalidraw/printf형식문자열.excalidraw.md",
     "Excalidraw/Drawing 2024-02-11 14.50.02.excalidraw.md",
-    "_posts/Spring/Mybatis/2024-02-11-[postgresql]select-결과-아예-없을 -때-Mybatis-interceptor로-객체-초기화하는 방법.md",
     "_posts/Algorithm/default_algorithm.md",
     "_posts/Algorithm/String/default_algorithm.md",
     "_posts/Java/Study/default_mybatis.md",
@@ -265,8 +267,6 @@
     "_posts/Java/Study/default_java 복사본.md",
     "default_java 복사본.md",
     "default_java.md",
-    "2024-02-04-자바-기본-타입-및-타입-변환.md",
-    "2024-02-03-변수와-진수별-작성법.md",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",

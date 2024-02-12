@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-02-12-스프링의-필요성(SOLID원칙)",
+      "path": "_posts/Spring/Study/2024-02-12-스프링의-필요성(SOLID원칙).md"
+    },
+    {
+      "basename": "default_spring",
+      "path": "_posts/Spring/Study/default_spring.md"
+    },
+    {
       "basename": "2024-02-11-[postgresql]select-결과-아예-없을 -때-Mybatis-interceptor로-객체-초기화하는 방법",
       "path": "_posts/Spring/Mybatis/2024-02-11-[postgresql]select-결과-아예-없을 -때-Mybatis-interceptor로-객체-초기화하는 방법.md"
     },
     {
       "basename": "2024-02-11-연산자",
       "path": "_posts/Java/Study/2024-02-11-연산자.md"
+    },
+    {
+      "basename": "default_mybatis",
+      "path": "_posts/Spring/Mybatis/default_mybatis.md"
     },
     {
       "basename": "2024-02-03-자바 실행 과정 및 기본 구조(feat. JDK, JRE, JavaSE란)",
@@ -27,10 +39,6 @@
     {
       "basename": "2024-02-03-변수와-진수별-작성법",
       "path": "_posts/Java/Study/2024-02-03-변수와-진수별-작성법.md"
-    },
-    {
-      "basename": "default_mybatis",
-      "path": "_posts/Spring/Mybatis/default_mybatis.md"
     },
     {
       "basename": "2024-01-21-Oauth2Error",

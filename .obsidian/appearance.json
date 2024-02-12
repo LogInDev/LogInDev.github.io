@@ -1,8 +1,8 @@
 {
-  "accentColor": "",
-  "cssTheme": "",
+  "accentColor": "#fbe1bc",
+  "cssTheme": "Dracula for Obsidian",
   "enabledCssSnippets": [
     "color-extend"
   ],
-  "theme": "obsidian"
+  "theme": "moonstone"
 }
