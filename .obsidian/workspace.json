@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9d2412c6d4878e59",
+        "id": "204b038290ff2f46",
         "type": "tabs",
         "children": [
           {
-            "id": "e6077e4547ba7e18",
+            "id": "8a71e62524b48730",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/Spring/Spring-기초/2024-02-12-스프링이란(SOLID원칙).md",
+                "file": "_posts/Java/Java-기초/2024-02-24-1006.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/Spring/Spring-기초/2024-02-12-스프링이란(SOLID원칙).md",
+                "file": "_posts/Java/Java-기초/2024-02-24-1006.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/Spring/Spring-기초/2024-02-12-스프링이란(SOLID원칙).md",
+                "file": "_posts/Java/Java-기초/2024-02-24-1006.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/Spring/Spring-기초/2024-02-12-스프링이란(SOLID원칙).md"
+                "file": "_posts/Java/Java-기초/2024-02-24-1006.md"
               }
             }
           },
@@ -200,39 +200,43 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e6077e4547ba7e18",
+  "active": "8a71e62524b48730",
   "lastOpenFiles": [
-    "_site/categories/spring-기초/index.html",
-    "_site/categories/spring-기초",
-    "_site/categories/mybatis-tips/index.html",
-    "_site/categories/mybatis-tips",
-    "_site/categories/java-기초/index.html",
-    "_site/categories/java-기초",
-    "_posts/Spring/Mybatis-Tips/2024-02-11-[postgresql]select-결과-아예-없을 -때-Mybatis-interceptor로-객체-초기화하는 방법.md",
-    "_posts/Java/Java-기초/2024-02-11-1005.md",
-    "_posts/Java/Java-기초/2024-02-11-1004.md",
-    "_posts/Java/Java-기초/2024-02-03-1002.md",
+    "_posts/Java/Java-기초/2024-02-24-1008.md",
+    "_posts/Java/Java-기초/2024-02-24-1007.md",
+    "_posts/Java/Java-기초/2024-02-24-1006.md",
     "_posts/Java/Java-기초/2024-02-03-1001.md",
+    "_posts/Java/Java-기초/2024-02-03-1002.md",
     "_posts/Java/Java-기초/2024-02-04-1003.md",
-    "_posts/Spring/Spring-기초/2024-02-12-스프링이란(SOLID원칙).md",
-    "_site/posts/스프링이란(SOLID원칙)/index.html",
-    "_site/posts/스프링이란(SOLID원칙)",
-    "_site/posts/1005/index.html",
-    "_site/posts/1005",
-    "_site/posts/1004/index.html",
-    "_site/assets/img/post_previewImg/spring.png",
-    "assets/img/post_previewImg/spring.png",
-    "assets/img/post_previewImg/java.PNG",
-    "_site/assets/img/post_previewImg/스프링-프레임워크.png",
-    "_site/assets/img/post_img/spring/다형성.jpeg",
-    "_site/assets/img/post_img/spring/spring.jpeg",
-    "_posts/Spring/Spring-기초/default_spring.md",
-    "assets/img/post_img/spring/다형성.jpeg",
-    "assets/img/post_img/spring/spring.jpeg",
-    "_posts/Spring/Mybatis-Tips/default_mybatis.md",
-    "_site/assets/img/post_img/java/2-7.png",
-    "_site/assets/img/post_img/java/2-6.jpeg",
+    "_posts/Java/Java-기초/2024-02-11-1004.md",
+    "_posts/Java/Java-기초/2024-02-11-1005.md",
+    "_site/posts/1008/index.html",
+    "_site/posts/1008",
+    "_site/posts/1007/index.html",
+    "_site/posts/1007",
+    "_site/assets/img/post_img/java/2-9.png",
+    "_site/assets/img/post_img/java/2-8.png",
+    "_site/assets/img/post_img/java/2-5.png",
+    "_site/assets/img/post_img/java/2-16.png",
+    "_site/assets/img/post_img/java/2-15.png",
+    "_site/assets/img/post_img/java/2-14.png",
+    "_site/assets/img/post_img/java/2-13.png",
+    "_site/assets/img/post_img/java/2-12.png",
+    "_site/assets/img/post_img/java/2-11.png",
+    "_site/assets/img/post_img/java/2-10.png",
+    "_site/page2/index.html",
+    "_site/page2",
     "_posts/Java/Java-기초/default_java.md",
+    "_site/posts/1006/index.html",
+    "_site/posts/1006",
+    "_site/categories/study/index.html",
+    "_site/categories/study",
+    "Excalidraw/다중조건식.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-24 11.52.21.excalidraw.md",
+    "_posts/Spring/Spring-기초/2024-02-12-스프링이란(SOLID원칙).md",
+    "_posts/Spring/Mybatis-Tips/2024-02-11-[postgresql]select-결과-아예-없을 -때-Mybatis-interceptor로-객체-초기화하는 방법.md",
+    "_posts/Spring/Spring-기초/default_spring.md",
+    "_posts/Spring/Mybatis-Tips/default_mybatis.md",
     "assets/img/post_img/pr.md",
     "_posts/Java/2024-02-11-Scanner-사용하기(feat. next()와-nextLine()의-차이).md",
     "Excalidraw/printf형식문자열.excalidraw.md",
@@ -243,11 +247,6 @@
     "_posts/Algorithm/String/default_mybatis.md",
     "_posts/Spring/Mybatis/2024-02-08-Mybatis-intercept-사용법 복사본.md",
     "_posts/Algorithm/String/default_algorithm 1.md",
-    "_posts/Error/2024-01-21-Oauth2Error.md",
-    "_posts/Java/Study/Drawing 2024-02-05 02.58.27.excalidraw.md",
-    "_posts/Java/Study/default_java 복사본.md",
-    "default_java 복사본.md",
-    "default_java.md",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",

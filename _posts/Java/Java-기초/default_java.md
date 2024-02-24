@@ -3,15 +3,15 @@ title: Scanner 사용하기(feat. next()와 nextLine()의 차이)
 date: 2024-02-11 12:50:00 +0900
 categories:
   - Java
-  - Study
+  - Java-기초
 tags:
   - java
 math: true
 mermaid: true
 image: /assets/img/post_previewImg/java.png
-excalidraw-plugin: parsed
 ---
-
+### .DS_Store
+### .DS_Store
 
 
 
