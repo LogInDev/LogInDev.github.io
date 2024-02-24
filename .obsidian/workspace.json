@@ -4,35 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "21823fab92f32eaf",
+        "id": "9d2412c6d4878e59",
         "type": "tabs",
         "children": [
           {
-            "id": "6b8f88ea091958af",
+            "id": "e6077e4547ba7e18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/Spring/Study/2024-02-12-스프링의-필요성(SOLID원칙).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "0b171043eda94cb4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e36b0954669f0c38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/Spring/Study/2024-02-12-스프링의-필요성(SOLID원칙).md",
+                "file": "_posts/Spring/Spring-기초/2024-02-12-스프링이란(SOLID원칙).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -129,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/Spring/Study/2024-02-12-스프링의-필요성(SOLID원칙).md",
+                "file": "_posts/Spring/Spring-기초/2024-02-12-스프링이란(SOLID원칙).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -146,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/Spring/Study/2024-02-12-스프링의-필요성(SOLID원칙).md",
+                "file": "_posts/Spring/Spring-기초/2024-02-12-스프링이란(SOLID원칙).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/Spring/Study/2024-02-12-스프링의-필요성(SOLID원칙).md"
+                "file": "_posts/Spring/Spring-기초/2024-02-12-스프링이란(SOLID원칙).md"
               }
             }
           },
@@ -219,40 +200,40 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6b8f88ea091958af",
+  "active": "e6077e4547ba7e18",
   "lastOpenFiles": [
-    "sitemap (1).xml",
-    "_site/posts/스프링의-필요성(SOLID원칙)/index.html",
-    "_site/posts/스프링의-필요성(SOLID원칙)",
+    "_site/categories/spring-기초/index.html",
+    "_site/categories/spring-기초",
+    "_site/categories/mybatis-tips/index.html",
+    "_site/categories/mybatis-tips",
+    "_site/categories/java-기초/index.html",
+    "_site/categories/java-기초",
+    "_posts/Spring/Mybatis-Tips/2024-02-11-[postgresql]select-결과-아예-없을 -때-Mybatis-interceptor로-객체-초기화하는 방법.md",
+    "_posts/Java/Java-기초/2024-02-11-1005.md",
+    "_posts/Java/Java-기초/2024-02-11-1004.md",
+    "_posts/Java/Java-기초/2024-02-03-1002.md",
+    "_posts/Java/Java-기초/2024-02-03-1001.md",
+    "_posts/Java/Java-기초/2024-02-04-1003.md",
+    "_posts/Spring/Spring-기초/2024-02-12-스프링이란(SOLID원칙).md",
+    "_site/posts/스프링이란(SOLID원칙)/index.html",
+    "_site/posts/스프링이란(SOLID원칙)",
+    "_site/posts/1005/index.html",
+    "_site/posts/1005",
+    "_site/posts/1004/index.html",
+    "_site/assets/img/post_previewImg/spring.png",
+    "assets/img/post_previewImg/spring.png",
+    "assets/img/post_previewImg/java.PNG",
     "_site/assets/img/post_previewImg/스프링-프레임워크.png",
     "_site/assets/img/post_img/spring/다형성.jpeg",
     "_site/assets/img/post_img/spring/spring.jpeg",
-    "_site/assets/img/post_img/spring",
-    "_site/tags/spring/index.html",
-    "_site/tags/spring",
-    "_posts/Spring/Study/default_spring.md",
-    "_posts/Spring/Study/2024-02-12-스프링의-필요성(SOLID원칙).md",
-    "assets/img/post_previewImg/스프링-프레임워크.png",
-    "assets/img/post_img/spring/다형성.jpeg.sb-7179c4ca-28vb8f",
+    "_posts/Spring/Spring-기초/default_spring.md",
     "assets/img/post_img/spring/다형성.jpeg",
-    "_posts/Spring/Mybatis/2024-02-11-[postgresql]select-결과-아예-없을 -때-Mybatis-interceptor로-객체-초기화하는 방법.md",
-    "_posts/Java/Study/2024-02-11-연산자.md",
     "assets/img/post_img/spring/spring.jpeg",
-    "assets/img/post_img/spring",
-    "assets/img/post_img/무제 폴더",
-    "_posts/Spring/Study",
-    "_posts/Spring/Mybatis/default_mybatis.md",
-    "_site/posts/postgresql-select-결과-아예-없을-때-Mybatis-interceptor로-객체-초기화하는-방법/index.html",
+    "_posts/Spring/Mybatis-Tips/default_mybatis.md",
     "_site/assets/img/post_img/java/2-7.png",
     "_site/assets/img/post_img/java/2-6.jpeg",
-    "_site/assets/img/post_img/java/2-4.jpeg",
-    "_site/assets/img/post_img/java/2-3.jpeg",
-    "_posts/Java/Study/2024-02-03-자바 실행 과정 및 기본 구조(feat. JDK, JRE, JavaSE란).md",
-    "_posts/Java/Study/default_java.md",
-    "_posts/Java/Study/2024-02-04-자바-기본-타입-및-타입-변환.md",
-    "_posts/Java/Study/2024-02-11-Scanner-사용하기(feat. next()와-nextLine()의-차이).md",
+    "_posts/Java/Java-기초/default_java.md",
     "assets/img/post_img/pr.md",
-    "_posts/Java/Study/2024-02-03-변수와-진수별-작성법.md",
     "_posts/Java/2024-02-11-Scanner-사용하기(feat. next()와-nextLine()의-차이).md",
     "Excalidraw/printf형식문자열.excalidraw.md",
     "Excalidraw/Drawing 2024-02-11 14.50.02.excalidraw.md",

@@ -1,44 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-02-12-스프링의-필요성(SOLID원칙)",
-      "path": "_posts/Spring/Study/2024-02-12-스프링의-필요성(SOLID원칙).md"
-    },
-    {
-      "basename": "default_spring",
-      "path": "_posts/Spring/Study/default_spring.md"
+      "basename": "2024-02-12-스프링이란(SOLID원칙)",
+      "path": "_posts/Spring/Spring-기초/2024-02-12-스프링이란(SOLID원칙).md"
     },
     {
       "basename": "2024-02-11-[postgresql]select-결과-아예-없을 -때-Mybatis-interceptor로-객체-초기화하는 방법",
-      "path": "_posts/Spring/Mybatis/2024-02-11-[postgresql]select-결과-아예-없을 -때-Mybatis-interceptor로-객체-초기화하는 방법.md"
+      "path": "_posts/Spring/Mybatis-Tips/2024-02-11-[postgresql]select-결과-아예-없을 -때-Mybatis-interceptor로-객체-초기화하는 방법.md"
     },
     {
-      "basename": "2024-02-11-연산자",
-      "path": "_posts/Java/Study/2024-02-11-연산자.md"
+      "basename": "2024-02-11-1005",
+      "path": "_posts/Java/Java-기초/2024-02-11-1005.md"
+    },
+    {
+      "basename": "2024-02-11-1004",
+      "path": "_posts/Java/Java-기초/2024-02-11-1004.md"
+    },
+    {
+      "basename": "2024-02-03-1002",
+      "path": "_posts/Java/Java-기초/2024-02-03-1002.md"
+    },
+    {
+      "basename": "2024-02-03-1001",
+      "path": "_posts/Java/Java-기초/2024-02-03-1001.md"
+    },
+    {
+      "basename": "2024-02-04-1003",
+      "path": "_posts/Java/Java-기초/2024-02-04-1003.md"
+    },
+    {
+      "basename": "spring",
+      "path": "assets/img/post_previewImg/spring.png"
+    },
+    {
+      "basename": "java",
+      "path": "assets/img/post_previewImg/java.PNG"
+    },
+    {
+      "basename": "default_spring",
+      "path": "_posts/Spring/Spring-기초/default_spring.md"
     },
     {
       "basename": "default_mybatis",
-      "path": "_posts/Spring/Mybatis/default_mybatis.md"
-    },
-    {
-      "basename": "2024-02-03-자바 실행 과정 및 기본 구조(feat. JDK, JRE, JavaSE란)",
-      "path": "_posts/Java/Study/2024-02-03-자바 실행 과정 및 기본 구조(feat. JDK, JRE, JavaSE란).md"
+      "path": "_posts/Spring/Mybatis-Tips/default_mybatis.md"
     },
     {
       "basename": "default_java",
-      "path": "_posts/Java/Study/default_java.md"
-    },
-    {
-      "basename": "2024-02-04-자바-기본-타입-및-타입-변환",
-      "path": "_posts/Java/Study/2024-02-04-자바-기본-타입-및-타입-변환.md"
-    },
-    {
-      "basename": "2024-02-11-Scanner-사용하기(feat. next()와-nextLine()의-차이)",
-      "path": "_posts/Java/Study/2024-02-11-Scanner-사용하기(feat. next()와-nextLine()의-차이).md"
-    },
-    {
-      "basename": "2024-02-03-변수와-진수별-작성법",
-      "path": "_posts/Java/Study/2024-02-03-변수와-진수별-작성법.md"
+      "path": "_posts/Java/Java-기초/default_java.md"
     },
     {
       "basename": "2024-01-21-Oauth2Error",
