@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-03-01-2002",
+      "path": "_posts/Spring/Spring-기초/2024-03-01-2002.md"
+    },
+    {
+      "basename": "default_java",
+      "path": "_posts/Java/Java-기초/default_java.md"
+    },
+    {
+      "basename": "default_mybatis",
+      "path": "_posts/Spring/Mybatis-Tips/default_mybatis.md"
+    },
+    {
+      "basename": "default_spring",
+      "path": "_posts/Spring/Spring-기초/default_spring.md"
+    },
+    {
+      "basename": "2024-02-12-2001",
+      "path": "_posts/Spring/Spring-기초/2024-02-12-2001.md"
+    },
+    {
       "basename": "2024-02-24-1006",
       "path": "_posts/Java/Java-기초/2024-02-24-1006.md"
     },
@@ -33,14 +53,6 @@
       "path": "_posts/Java/Java-기초/2024-02-11-1005.md"
     },
     {
-      "basename": "default_java",
-      "path": "_posts/Java/Java-기초/default_java.md"
-    },
-    {
-      "basename": "2024-02-12-스프링이란(SOLID원칙)",
-      "path": "_posts/Spring/Spring-기초/2024-02-12-스프링이란(SOLID원칙).md"
-    },
-    {
       "basename": "2024-02-11-[postgresql]select-결과-아예-없을 -때-Mybatis-interceptor로-객체-초기화하는 방법",
       "path": "_posts/Spring/Mybatis-Tips/2024-02-11-[postgresql]select-결과-아예-없을 -때-Mybatis-interceptor로-객체-초기화하는 방법.md"
     },
@@ -51,14 +63,6 @@
     {
       "basename": "java",
       "path": "assets/img/post_previewImg/java.PNG"
-    },
-    {
-      "basename": "default_spring",
-      "path": "_posts/Spring/Spring-기초/default_spring.md"
-    },
-    {
-      "basename": "default_mybatis",
-      "path": "_posts/Spring/Mybatis-Tips/default_mybatis.md"
     },
     {
       "basename": "2024-01-21-Oauth2Error",

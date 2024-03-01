@@ -3,12 +3,12 @@ title: Mybatis intercept 사용법
 date: 2024-02-08 21:25:00 +0900
 categories:
   - Spring
-  - Study
+  - Spring-기초
 tags:
   - spring
 math: true
 mermaid: true
-image: /assets/img/post_previewImg/mybatis-logo.png
+image: /assets/img/post_previewImg/spring.png
 ---
 
 ## 스프링이란
