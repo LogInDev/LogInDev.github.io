@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-03-01-2003",
-      "path": "_posts/Spring/Spring-기초/2024-03-01-2003.md"
+      "basename": "2024-03-02-1009",
+      "path": "_posts/Java/Java-기초/2024-03-02-1009.md"
     },
     {
-      "basename": "img",
-      "path": "assest/img.md"
+      "basename": "default_java",
+      "path": "_posts/Java/Java-기초/default_java.md"
+    },
+    {
+      "basename": "2003ing",
+      "path": "_posts/Spring/Spring-기초/2003ing.md"
     },
     {
       "basename": "2024-03-01-2002",
@@ -15,10 +19,6 @@
     {
       "basename": "default_spring",
       "path": "_posts/Spring/Spring-기초/default_spring.md"
-    },
-    {
-      "basename": "default_java",
-      "path": "_posts/Java/Java-기초/default_java.md"
     },
     {
       "basename": "default_mybatis",

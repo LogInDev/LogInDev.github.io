@@ -1,8 +1,8 @@
 {
   "accentColor": "#fbe1bc",
-  "cssTheme": "Obsidian Nord",
+  "cssTheme": "Border",
   "enabledCssSnippets": [
     "color-extend"
   ],
-  "theme": "moonstone"
+  "theme": "obsidian"
 }

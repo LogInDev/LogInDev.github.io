@@ -4,35 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "204b038290ff2f46",
+        "id": "a4c36a87a11987a6",
         "type": "tabs",
         "children": [
           {
-            "id": "8a71e62524b48730",
+            "id": "0eae5bb1869dd7d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/Spring/Spring-기초/2024-03-01-2003.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "4114e85eeda73066",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "151d29d7747c8a73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/Spring/Spring-기초/2024-03-01-2003.md",
+                "file": "_posts/Java/Java-기초/2024-03-02-1009.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -51,6 +32,7 @@
       {
         "id": "3fe7a4ec5e1e8ca6",
         "type": "tabs",
+        "dimension": 66.43192488262912,
         "children": [
           {
             "id": "88d73124eb1eb129",
@@ -60,6 +42,47 @@
               "state": {
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "dc7e2abd99a484ec",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/Java/Java-기초/2024-03-02-1009.md"
+              }
+            }
+          },
+          {
+            "id": "4fb7a06c3aaa1764",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "d1e159361905181c",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "ddac489f22739598",
+        "type": "tabs",
+        "dimension": 33.568075117370896,
+        "children": [
+          {
+            "id": "a291fd3478a376e1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           },
           {
@@ -84,30 +107,6 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "4fb7a06c3aaa1764",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "d1e159361905181c",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          },
-          {
-            "id": "96e30c6d74d89845",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {}
-            }
           }
         ]
       }
@@ -129,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/Spring/Spring-기초/2024-03-01-2003.md",
+                "file": "_posts/Java/Java-기초/2024-03-02-1009.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/Spring/Spring-기초/2024-03-01-2003.md",
+                "file": "_posts/Java/Java-기초/2024-03-02-1009.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,21 +163,11 @@
             }
           },
           {
-            "id": "a291fd3478a376e1",
+            "id": "6066e52a39bfb26b",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "timeline",
               "state": {}
-            }
-          },
-          {
-            "id": "dc7e2abd99a484ec",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "_posts/Spring/Spring-기초/2024-03-01-2003.md"
-              }
             }
           },
           {
@@ -188,17 +177,9 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          },
-          {
-            "id": "6066e52a39bfb26b",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -219,15 +200,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8a71e62524b48730",
+  "active": "0eae5bb1869dd7d9",
   "lastOpenFiles": [
+    "_site/posts/1009/index.html",
+    "_site/posts/1009",
+    "_site/assets/img/post_img/spring/3-1.jpeg",
+    "_site/2024-03-01.md",
+    "_posts/Java/Java-기초/default_java.md",
+    "_posts/Java/Java-기초/2024-03-02-1009.md",
+    "_posts/Spring/Spring-기초/2003ing.md",
+    "2024-03-01.md",
     "assest/img.md",
-    "_posts/Spring/Spring-기초/2024-03-01-2003.md",
     "assest",
     "_posts/Spring/Spring-기초/2024-03-01-2002.md",
     "assets/img/post_img/spring/3-1.jpeg",
     "_posts/Spring/Spring-기초/default_spring.md",
-    "_posts/Java/Java-기초/default_java.md",
     "_site/posts/2002/index.html",
     "_site/posts/2002",
     "_site/posts/2001/index.html",
@@ -247,7 +234,6 @@
     "_posts/Java/Java-기초/2024-02-11-1005.md",
     "_site/posts/1008/index.html",
     "_site/posts/1008",
-    "_site/posts/1007/index.html",
     "_site/assets/img/post_img/java/2-9.png",
     "_site/assets/img/post_img/java/2-8.png",
     "_site/assets/img/post_img/java/2-5.png",
@@ -256,17 +242,12 @@
     "_site/assets/img/post_img/java/2-14.png",
     "_site/assets/img/post_img/java/2-13.png",
     "_site/assets/img/post_img/java/2-12.png",
-    "_site/assets/img/post_img/java/2-11.png",
     "Excalidraw/다중조건식.excalidraw.md",
     "Excalidraw/Drawing 2024-02-24 11.52.21.excalidraw.md",
     "_posts/Spring/Mybatis-Tips/2024-02-11-[postgresql]select-결과-아예-없을 -때-Mybatis-interceptor로-객체-초기화하는 방법.md",
     "assets/img/post_img/pr.md",
     "_posts/Java/2024-02-11-Scanner-사용하기(feat. next()와-nextLine()의-차이).md",
     "Excalidraw/printf형식문자열.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-11 14.50.02.excalidraw.md",
-    "_posts/Algorithm/default_algorithm.md",
-    "_posts/Algorithm/String/default_algorithm.md",
-    "_posts/Java/Study/default_mybatis.md",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
