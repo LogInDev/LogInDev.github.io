@@ -3,7 +3,7 @@ title: "[postgresql]select 결과 아예 없을 때 Mybatis interceptor로 객�
 date: 2024-02-11 09:34:00 +0900
 categories:
   - Spring
-  - Mybatis-Tips
+  - Mybatis
 tags:
   - mybatis
 math: true
