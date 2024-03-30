@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/Python/ing.md",
+                "file": "_posts/Error/2024-03-30-3000.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/Python/ing.md"
+                "file": "_posts/Error/2024-03-30-3000.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/Python/ing.md",
+                "file": "_posts/Error/2024-03-30-3000.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/Python/ing.md",
+                "file": "_posts/Error/2024-03-30-3000.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,11 +215,23 @@
   },
   "active": "1e82e56ed8d81016",
   "lastOpenFiles": [
+    "_site/categories/oracle/index.html",
+    "_site/categories/oracle",
+    "_posts/Error/2024-01-21-Oauth2Error.md",
     "_posts/Error/2024-03-30-3000.md",
     "_posts/Python/ing.md",
+    "_site/posts/3000/index.html",
+    "_site/posts/3000",
+    "_site/assets/img/post_img/error/3-6.png",
+    "_site/assets/img/post_img/error/3-5.png",
+    "_site/assets/img/post_img/error/3-4.png",
+    "_site/assets/img/post_img/error/3-3.png",
+    "_site/assets/img/post_img/error/3-2.png",
+    "_site/assets/img/post_img/error/3-1.png",
+    "_site/assets/img/post_img/error",
+    "_site/assets.md",
     "assets/img/post_img/error/3-6.png",
     "_posts/Java/Java-기초/2024-02-04-1003.md",
-    "_posts/Error/2024-01-21-Oauth2Error.md",
     "assets/img/post_img/error/3-5.png",
     "assets/img/post_img/error/3-4.png",
     "assets/img/post_img/error/3-3.png",
@@ -233,8 +245,6 @@
     "_posts/Java/Java-기초/2024-02-11-1004.md",
     "_posts/Spring/Spring-기초/2024-03-01-2002.md",
     "_posts/Spring/Spring-기초/2024-02-12-2001.md",
-    "assets/img/post_img/error/3-2.png",
-    "assets/img/post_img/error/3-1.png",
     "assets/img/post_img/error",
     "_posts/Error/Untitled.md",
     "_posts/Spring/Mybatis/2024-02-11-[postgresql]select-결과-아예-없을 -때-Mybatis-interceptor로-객체-초기화하는 방법.md",
@@ -242,24 +252,15 @@
     "_posts/Python",
     "_site/posts/1009/index.html",
     "_site/posts/1009",
-    "_site/assets/img/post_img/spring/3-1.jpeg",
     "_site/2024-03-01.md",
     "_posts/Java/Java-기초/default_java.md",
     "_posts/Spring/Spring-기초/2003ing.md",
     "2024-03-01.md",
     "assest/img.md",
     "assest",
-    "assets/img/post_img/spring/3-1.jpeg",
     "_posts/Spring/Spring-기초/default_spring.md",
-    "_site/posts/2002/index.html",
-    "_site/posts/2002",
-    "_site/posts/2001/index.html",
-    "_site/posts/2001",
     "_posts/Spring/Mybatis/default_mybatis.md",
     "_posts/Spring/Spring-기초/.md",
-    "_posts/Java/Java-기초/2024-02-03-1001.md",
-    "_site/assets/img/post_img/java/2-9.png",
-    "_site/assets/img/post_img/java/2-8.png",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
