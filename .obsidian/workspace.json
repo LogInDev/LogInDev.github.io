@@ -4,16 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "a4c36a87a11987a6",
+        "id": "170d85e0531f9ad5",
         "type": "tabs",
         "children": [
           {
-            "id": "0eae5bb1869dd7d9",
+            "id": "1e82e56ed8d81016",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/Java/Java-기초/2024-03-02-1009.md",
+                "file": "_posts/Python/ing.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9693655d27df3ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/Java/Java-기초/2024-02-04-1003.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -32,7 +45,7 @@
       {
         "id": "3fe7a4ec5e1e8ca6",
         "type": "tabs",
-        "dimension": 66.43192488262912,
+        "dimension": 66.4319248826291,
         "children": [
           {
             "id": "88d73124eb1eb129",
@@ -50,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/Java/Java-기초/2024-03-02-1009.md"
+                "file": "_posts/Python/ing.md"
               }
             }
           },
@@ -75,7 +88,7 @@
       {
         "id": "ddac489f22739598",
         "type": "tabs",
-        "dimension": 33.568075117370896,
+        "dimension": 33.56807511737089,
         "children": [
           {
             "id": "a291fd3478a376e1",
@@ -128,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/Java/Java-기초/2024-03-02-1009.md",
+                "file": "_posts/Python/ing.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -145,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/Java/Java-기초/2024-03-02-1009.md",
+                "file": "_posts/Python/ing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,54 +213,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0eae5bb1869dd7d9",
+  "active": "1e82e56ed8d81016",
   "lastOpenFiles": [
+    "_posts/Error/2024-03-30-3000.md",
+    "_posts/Python/ing.md",
+    "assets/img/post_img/error/3-6.png",
+    "_posts/Java/Java-기초/2024-02-04-1003.md",
+    "_posts/Error/2024-01-21-Oauth2Error.md",
+    "assets/img/post_img/error/3-5.png",
+    "assets/img/post_img/error/3-4.png",
+    "assets/img/post_img/error/3-3.png",
+    "assets.md",
+    "_posts/Java/Java-기초/2024-02-11-1005.md",
+    "_posts/Java/Java-기초/2024-02-24-1006.md",
+    "_posts/Java/Java-기초/2024-02-24-1007.md",
+    "_posts/Java/Java-기초/2024-02-24-1008.md",
+    "_posts/Java/Java-기초/2024-03-02-1009.md",
+    "_posts/Java/Java-기초/2024-02-03-1002.md",
+    "_posts/Java/Java-기초/2024-02-11-1004.md",
+    "_posts/Spring/Spring-기초/2024-03-01-2002.md",
+    "_posts/Spring/Spring-기초/2024-02-12-2001.md",
+    "assets/img/post_img/error/3-2.png",
+    "assets/img/post_img/error/3-1.png",
+    "assets/img/post_img/error",
+    "_posts/Error/Untitled.md",
+    "_posts/Spring/Mybatis/2024-02-11-[postgresql]select-결과-아예-없을 -때-Mybatis-interceptor로-객체-초기화하는 방법.md",
+    "_posts/Python/Python",
+    "_posts/Python",
     "_site/posts/1009/index.html",
     "_site/posts/1009",
     "_site/assets/img/post_img/spring/3-1.jpeg",
     "_site/2024-03-01.md",
     "_posts/Java/Java-기초/default_java.md",
-    "_posts/Java/Java-기초/2024-03-02-1009.md",
     "_posts/Spring/Spring-기초/2003ing.md",
     "2024-03-01.md",
     "assest/img.md",
     "assest",
-    "_posts/Spring/Spring-기초/2024-03-01-2002.md",
     "assets/img/post_img/spring/3-1.jpeg",
     "_posts/Spring/Spring-기초/default_spring.md",
     "_site/posts/2002/index.html",
     "_site/posts/2002",
     "_site/posts/2001/index.html",
     "_site/posts/2001",
-    "_site/sitemap.xml",
-    "_posts/Spring/Mybatis-Tips/default_mybatis.md",
+    "_posts/Spring/Mybatis/default_mybatis.md",
     "_posts/Spring/Spring-기초/.md",
-    "_posts/Spring/Spring-기초/2024-02-12-2001.md",
-    "_posts/Java/Java-기초/2024-02-24-1006.md",
-    "sitemap.xml",
-    "_posts/Java/Java-기초/2024-02-24-1008.md",
-    "_posts/Java/Java-기초/2024-02-24-1007.md",
     "_posts/Java/Java-기초/2024-02-03-1001.md",
-    "_posts/Java/Java-기초/2024-02-03-1002.md",
-    "_posts/Java/Java-기초/2024-02-04-1003.md",
-    "_posts/Java/Java-기초/2024-02-11-1004.md",
-    "_posts/Java/Java-기초/2024-02-11-1005.md",
-    "_site/posts/1008/index.html",
-    "_site/posts/1008",
     "_site/assets/img/post_img/java/2-9.png",
     "_site/assets/img/post_img/java/2-8.png",
-    "_site/assets/img/post_img/java/2-5.png",
-    "_site/assets/img/post_img/java/2-16.png",
-    "_site/assets/img/post_img/java/2-15.png",
-    "_site/assets/img/post_img/java/2-14.png",
-    "_site/assets/img/post_img/java/2-13.png",
-    "_site/assets/img/post_img/java/2-12.png",
-    "Excalidraw/다중조건식.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-24 11.52.21.excalidraw.md",
-    "_posts/Spring/Mybatis-Tips/2024-02-11-[postgresql]select-결과-아예-없을 -때-Mybatis-interceptor로-객체-초기화하는 방법.md",
-    "assets/img/post_img/pr.md",
-    "_posts/Java/2024-02-11-Scanner-사용하기(feat. next()와-nextLine()의-차이).md",
-    "Excalidraw/printf형식문자열.excalidraw.md",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
