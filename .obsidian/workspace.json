@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/Error/2024-03-30-3000.md",
+                "file": "_posts/Algorithm/default_algorithm.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/Error/2024-03-30-3000.md"
+                "file": "_posts/Algorithm/default_algorithm.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/Error/2024-03-30-3000.md",
+                "file": "_posts/Algorithm/default_algorithm.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/Error/2024-03-30-3000.md",
+                "file": "_posts/Algorithm/default_algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,17 +216,17 @@
   },
   "active": "1e82e56ed8d81016",
   "lastOpenFiles": [
+    "_posts/Python/ing.md",
+    "_posts/Error/2024-03-30-3000.md",
     "_posts/Spring/Mybatis/2024-02-11-[postgresql]select-결과-아예-없을 -때-Mybatis-interceptor로-객체-초기화하는 방법.md",
     "_site/categories/mybatis/index.html",
     "_site/categories/mybatis",
-    "_posts/Error/2024-03-30-3000.md",
     "_site/tags/oracle/index.html",
     "_site/tags/oracle",
     "_posts/Error/2024-01-21-Oauth2Error.md",
     "_posts/Java/Java-기초/2024-02-04-1003.md",
     "_site/categories/oracle/index.html",
     "_site/categories/oracle",
-    "_posts/Python/ing.md",
     "_site/posts/3000/index.html",
     "_site/posts/3000",
     "_site/assets/img/post_img/error/3-6.png",

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "default_algorithm",
+      "path": "_posts/Algorithm/default_algorithm.md"
+    },
+    {
+      "basename": "ing",
+      "path": "_posts/Python/ing.md"
+    },
+    {
       "basename": "2024-03-30-3000",
       "path": "_posts/Error/2024-03-30-3000.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "2024-02-04-1003",
       "path": "_posts/Java/Java-기초/2024-02-04-1003.md"
-    },
-    {
-      "basename": "ing",
-      "path": "_posts/Python/ing.md"
     },
     {
       "basename": "assets",
