@@ -8,29 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1e82e56ed8d81016",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/Algorithm/default_algorithm.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e9693655d27df3ce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/Error/2024-01-21-Oauth2Error.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -53,8 +37,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -63,8 +50,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/Algorithm/default_algorithm.md"
-              }
+                "file": "_posts/Algorithm/default_algorithm.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of default_algorithm"
             }
           },
           {
@@ -72,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
-              "state": {}
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
             }
           },
           {
@@ -80,7 +74,19 @@
             "type": "leaf",
             "state": {
               "type": "recent-files",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "82bddffc4e1e6a43",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ]
@@ -95,7 +101,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -104,13 +112,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:mybatis",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -118,11 +128,12 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -142,7 +153,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/Algorithm/default_algorithm.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -150,7 +160,9 @@
                 "searchQuery": "git",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -159,10 +171,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/Algorithm/default_algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -172,8 +185,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -181,7 +198,9 @@
             "type": "leaf",
             "state": {
               "type": "timeline",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -189,7 +208,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -214,8 +235,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1e82e56ed8d81016",
+  "active": "88d73124eb1eb129",
   "lastOpenFiles": [
+    "Spaces/Home",
+    "Spaces",
     "_posts/Python/ing.md",
     "_posts/Error/2024-03-30-3000.md",
     "_posts/Spring/Mybatis/2024-02-11-[postgresql]select-결과-아예-없을 -때-Mybatis-interceptor로-객체-초기화하는 방법.md",
@@ -251,7 +274,6 @@
     "_posts/Java/Java-기초/2024-02-11-1004.md",
     "_posts/Spring/Spring-기초/2024-03-01-2002.md",
     "_posts/Spring/Spring-기초/2024-02-12-2001.md",
-    "assets/img/post_img/error",
     "_posts/Error/Untitled.md",
     "_site/2024-03-01.md",
     "_posts/Java/Java-기초/default_java.md",
